@@ -540,6 +540,10 @@ img.select-thumbnail-preview {
   overflow:hidden;
   background-color: rgba(251, 250, 248, 0.95);
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 0 0 0 rgba(0, 0, 0, 0.12);
+
+  .topic-list-item {
+    border-bottom: 0;
+  }
 }
 
 .tiles-grid-item.topic-list-item {
